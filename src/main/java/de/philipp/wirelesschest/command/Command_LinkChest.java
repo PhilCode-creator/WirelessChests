@@ -55,8 +55,6 @@ public class Command_LinkChest implements CommandExecutor {
             return false;
         }
 
-        
-
         player.sendMessage("§aLinked Chests");
         return false;
     }
