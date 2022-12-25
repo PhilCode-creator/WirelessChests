@@ -1,0 +1,10 @@
+name: WirelessChest
+version: 1.0
+author: PhilCode
+main: de.philipp.wirelesschest.WirelessChest
+
+api-version: 1.19
+
+commands:
+  linkchest:
+    description: Used for linking two chests together
